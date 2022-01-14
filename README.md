@@ -8,3 +8,8 @@ AB.insert( AB.end(), A.begin(), A.end() )
 AB.insert( AB.end(), B.begin(), B.end() )
 https://stackoverflow.com/questions/3177241/what-is-the-best-way-to-concatenate-two-vectors
 
+xxx[1]...xxx[5]
+xxxFrom = 1 
+xxxTo = 5
+xxxBegin = 1
+xxxEnd = 6
