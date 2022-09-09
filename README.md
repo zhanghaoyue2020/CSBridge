@@ -48,3 +48,6 @@ abcbd   dbcba
 *s.rbegin() = d
 *(s.rend() -1) =a
 
+## KMP
+  
+  https://www.educative.io/answers/what-is-the-knuth-morris-pratt-algorithm
