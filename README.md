@@ -1,3 +1,5 @@
+Leet Code: https://docs.google.com/spreadsheets/d/1ZuvSzDYi6FJa5NXWQh4MhswR2PoSc4SutiuqMeMdw-4/edit#gid=90163477
+
 42_proBase&Derive.cpp
 
 The goal for this Project is to create a simple two-dimensional predator-prey simulation. In this simulation the prey are ants and the pred-ators are doodlebugs. These critters live in a world composed of a 20 × 20 grid of cells. Only one critter may occupy a cell at a time. The grid is  enclosed, so a critter is not allowed to move off the edges of the world. Time is simulated in time steps. Each critter performs some action every time step.
@@ -31,6 +33,3 @@ Many steps later:
 
 
 <img width="209" alt="4" src="https://user-images.githubusercontent.com/85269000/201490017-cd886e03-229f-4e93-83d3-d69a69d8308e.png">
-
-
-LeetCode: https://docs.google.com/document/d/1cmRuttyxV5VkMjsvMLmH7y_Kx19h4Fmph5PG7v8N9lE/edit
