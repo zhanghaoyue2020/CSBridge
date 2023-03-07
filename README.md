@@ -244,3 +244,14 @@ Project [42_proBase&Derive.cpp](Assignment/42_proBase&Derive.cpp)
 [red & black tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 code: [44_REDBLACKtree.cpp](Assignment/44_REDBLACKtree.cpp)
+
+## final exam
+
+code: [51_vectorResortEvenNum.cpp](Assignment/51_vectorResortEvenNum.cpp)
+
+## ECE 9343 Data Structure and Algorithms
+
+recurssion: [moveDiskFromPoleToPole.cpp](data structure/moveDiskFromPoleToPole.cpp)
+
+quick sort: [analyzingQuickSort.cpp](data structure/analyzingQuickSort.cpp)
+
