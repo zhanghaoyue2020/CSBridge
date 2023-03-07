@@ -251,7 +251,7 @@ code: [51_vectorResortEvenNum.cpp](Assignment/51_vectorResortEvenNum.cpp)
 
 ## ECE 9343 Data Structure and Algorithms
 
-recurssion: [moveDiskFromPoleToPole.cpp](data structure/moveDiskFromPoleToPole.cpp)
+recurssion: [moveDiskFromPoleToPole.cpp](https://github.com/zhanghaoyue2020/CSBridge/blob/17c753d8492bda556eac9d4519133979aad4ea17/data%20structure/moveDiskFromPoleToPole.cpp)
 
-quick sort: [analyzingQuickSort.cpp](data structure/analyzingQuickSort.cpp)
+quick sort: [analyzingQuickSort.cpp](https://github.com/zhanghaoyue2020/CSBridge/blob/17c753d8492bda556eac9d4519133979aad4ea17/data%20structure/analyzingQuickSort.cpp)
 
