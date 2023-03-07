@@ -9,6 +9,7 @@ Leet Code: https://docs.google.com/spreadsheets/d/1ZuvSzDYi6FJa5NXWQh4MhswR2PoSc
 [recursion](https://github.com/zhanghaoyue2020/CSBridge#recursion)  
 [project](https://github.com/zhanghaoyue2020/CSBridge#project)  
 [tree](https://github.com/zhanghaoyue2020/CSBridge#tree)  
+[algorithom: ECE 9343 Data Structure and Algorithms](https://github.com/zhanghaoyue2020/CSBridge#ECE-9343-Data-Structure-and-Algorithms)  
 
 ## IO
 
@@ -255,3 +256,4 @@ recurssion: [moveDiskFromPoleToPole.cpp](https://github.com/zhanghaoyue2020/CSBr
 
 quick sort: [analyzingQuickSort.cpp](https://github.com/zhanghaoyue2020/CSBridge/blob/17c753d8492bda556eac9d4519133979aad4ea17/data%20structure/analyzingQuickSort.cpp)
 
+note: https://docs.google.com/document/d/1XUwoC2-wZlJy-HpwubxFhomVPd4hE1XSzkkYEFW_NTE/edit#heading=h.gaviaqkm0wm0
